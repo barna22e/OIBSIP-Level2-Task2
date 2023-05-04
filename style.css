@@ -1,0 +1,23 @@
+.jumbotron { 
+    background-image: url("https://rb.gy/9a7xe");
+    background-repeat: repeat;
+    background-position-x: center;
+    background-position-y: 30%;
+    background-size: auto auto;
+}
+.left{
+    font-size: 22px;
+    background: linear-gradient(to left, #005aa7, #fffde4);
+}
+.left ul{
+    position: right;
+}
+footer {
+    background: linear-gradient(to right, #3e5151, #decba4);
+	color: #fff;
+    min-height: 60px;
+}
+footer a {
+	color: #efe1e1;
+	text-decoration: none;
+}
